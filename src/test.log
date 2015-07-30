@@ -1,0 +1,4 @@
+cat ./test
+
+cat ./newResult.log
+saddr
