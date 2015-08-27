@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 SAVE_TAG_T_PATH="$HOME/.tag_for_remote";
 
