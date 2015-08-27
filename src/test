@@ -1,0 +1,2 @@
+#!/bin/sh
+scp qingluan@blog.qingluan.info:test ./
